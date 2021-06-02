@@ -17,9 +17,8 @@ Familiarize yourself with
 
 You will get a couple more similar course notations and logic. 
 Familiarize yourself! Read up on it and think until it is familiar. Learn this by heart. Seriously, until you can explain it to your inner child.
-
-
-
+You WILL memorize these increasingly over time 
+because notation and proof are required to read any other material...
 
 # Essential programming tools: Version Control
 - Learn how to create a personal website: <https://guides.github.com/features/pages/>
