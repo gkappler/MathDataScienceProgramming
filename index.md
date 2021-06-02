@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gkappler/MathDataScienceProgramming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Inhaltsverzeichnis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These fields will empower our future.
+You can empower your life learning these disciplines!
 
-```markdown
-Syntax highlighted code block
+You are invited to a three day talk series at Archipel University introducing our vision for a new curriculum in these fields.
+To an exciting tour through mathematical, scientific and philosophical ideas,
+the cornerstones of this big picture of
+&bdquo;mathematics, data science and programming&ldquo;.
+Aware of the human condition of uncertainty and confusion,
+we lay out a student journey
+that promises understanding and possible certainty,
+for those who put up with the necessary frustration and pain
+of making every proof your own,
+until you finally get the ideas.
 
-# Header 1
-## Header 2
-### Header 3
+Beyond numbers we connect fundamental ideas:
+introducing simple notation shows
+why formal definitions clarify what is talked about,
+and rigorous proof reveal certainty.
 
-- Bulleted
-- List
+Learn about the ominous Omega &Omega; of creation
+Clearly observing and measuring,
+About models of reality and the truth.
 
-1. Numbered
-2. List
+It is a metareal introduction to the magic of mathematics.
+Enroll on a journey where you can expand your mind 
+and learn to realize your ideas in a program.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gkappler/MathDataScienceProgramming/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
