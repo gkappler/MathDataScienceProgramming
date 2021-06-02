@@ -72,12 +72,8 @@ This homework is ongoing through all 7 weeks of the course.
 1.  for each course **that you are currently working on**,
     find two courses in either math, data science/statistic, or programming/computer science.
     Provide links to online course material (open, free access).
-2.  for one topic **below that you find interesting**,
+2.  for one topic in mathematics, data science, and programming **above that you find interesting**,
     google for two open courses in either math, data science/statistic, or programming/computer science.
     Provide links (min 2) to online course material (open, free access).
 3.  create a github account, and fork this repository for your website
 
-
-Next week I will
--   discuss the plan below with your contributions woven into it.
--   learn you the basics of git issues, so we can coordinate/discuss tasks.

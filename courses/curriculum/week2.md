@@ -10,11 +10,12 @@ Candidates for curriculum materials:
 # Essential programming tools: Version Control
 - Learn how to create a personal website: <https://guides.github.com/features/pages/>
 - Read Chapter 1 in <https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control>
-        
+- Learn the basics of github issues, so we can coordinate/discuss tasks at <https://github.com/gkappler/MathDataScienceProgramming/issues>.
+
 
 ## Homework
 1. What methods of proof are there? List all, and describe them in your own words below.
-2. Create a personal website with your
-   1.  biography and
+2. Fork this repository and adapt to your personal website with your
+   1.  biography (About me) and
    2.  course interests
     
