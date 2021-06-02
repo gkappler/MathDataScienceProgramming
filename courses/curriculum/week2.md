@@ -7,6 +7,19 @@ Candidates for curriculum materials:
 
 
 
+Each course takes a full semester to teach.
+You need not read these books in entirety.
+You are supposed to read only the beginning as far as you get. 
+
+Familiarize yourself with 
+1. notation and 
+2. the types of proof.
+You will get a couple more similar course notations and logic. 
+Familiarize yourself! Read up on it and think until it is familiar. Learn this by heart. Seriously, until you can explain it to your inner child.
+
+
+
+
 # Essential programming tools: Version Control
 - Learn how to create a personal website: <https://guides.github.com/features/pages/>
 - Read Chapter 1 in <https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control>
