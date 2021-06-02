@@ -32,5 +32,5 @@ and learn to realize your ideas in a program.
 
 
 ## Curriculum Student Tutors course
-- [courses/curriculum/week1.md](Week 1)
-- [courses/curriculum/week2.md](Week 2)
+- [Week 1](courses/curriculum/week1.md)
+- [Week 2](courses/curriculum/week2.md)
