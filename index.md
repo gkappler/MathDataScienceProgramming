@@ -29,8 +29,8 @@ and learn to realize your ideas in a program.
 
 
 ## Curriculum Student Tutors course
-- [Week 1](courses/curriculum/week1.md)
 - [Week 2](courses/curriculum/week2.md)
+- [Week 1](courses/curriculum/Week 1/week1.md)
 
 
 ## About Me

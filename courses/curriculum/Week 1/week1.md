@@ -54,7 +54,6 @@ The curriculum teaches how to apply your understanding in these courses
 3.  *Visualizing quantitative information* (Tufte) &#x2013; the grammar of scientific graphics
 4.  *Public Data* Science &#x2013; Growing a public data repository for study and research (Information Mycelium).
 
-
 <a id="org89ac3bc"></a>
 
 ## Programming:
@@ -69,11 +68,12 @@ The curriculum teaches how to apply your understanding in these courses
 ## Homework:
 This homework is ongoing through all 7 weeks of the course.
 
-1.  for each course **that you are currently working on**,
-    find two courses in either math, data science/statistic, or programming/computer science.
+1.  For one course **that you are currently working on**,
+    search for two courses in either math, data science/statistic, or programming/computer science.
     Provide links to online course material (open, free access).
-2.  for one topic in mathematics, data science, and programming **above that you find interesting**,
-    google for two open courses in either math, data science/statistic, or programming/computer science.
+2.  
+    For one topic in mathematics, data science, and programming **that you find interesting**,
+    search for two open courses in either math, data science/statistic, or programming/computer science.
     Provide links (min 2) to online course material (open, free access).
-3.  create a github account, and fork this repository for your website
+3.  Create a github account, and fork the repository https://github.com/gkappler/MathDataScienceProgramming for your website.
 
