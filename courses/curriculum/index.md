@@ -1,3 +1,7 @@
+---
+title: Curriculum Course Mathematics, Data Science, and Programming (MDSP)
+---
+
 # The curriculum course aims at developing your study program
 prefering open and freely accessible materials.
 

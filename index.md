@@ -1,3 +1,6 @@
+---
+title: Mathematics, Data Science, and Programming
+---
 
 # Mathematics, Data Science, and Programming
 These fields will empower our future.
@@ -28,7 +31,7 @@ Enroll on a journey where you can expand your mind
 and learn to realize your ideas in a program.
 
 
-## Curriculum Student Tutors course
+## [Curriculum Student Tutors course](courses/curriculum/)
 - [Week 1](courses/curriculum/Week 1/week1.md)
 - [Week 2](courses/curriculum/Week 2/week2.md)
 

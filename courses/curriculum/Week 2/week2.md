@@ -1,3 +1,9 @@
+---
+title: Curriculum Course MDSP - Week 2
+---
+
+Please read the [course overview](../)
+
 # Essential mathematical notation and proofs:
 A journey starts at the very beginning.
 At the very beginning is notation and logic.
