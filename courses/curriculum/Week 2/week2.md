@@ -4,7 +4,8 @@ title: Curriculum Course MDSP - Week 2
 
 Please read the [course overview](../)
 
-# Essential mathematical notation and proofs:
+# Essential mathematical notation and proofs ([video](https://odysee.com/@MathDataScienceProgramming:6/MSDP-Week2-01-Notation-and-Logic:b)):
+
 A journey starts at the very beginning.
 At the very beginning is notation and logic.
 
@@ -37,13 +38,13 @@ You WILL memorize these increasingly over time
 because notation and proof are required to read any other material...
 
 
-# Essential programming tools: Version Control
+# Essential programming tools: Version Control ([Video](https://odysee.com/@MathDataScienceProgramming:6/MSDP-Week1-05-GitHub-Guides-1440:e))
 - Learn how to create a personal website: <https://guides.github.com/features/pages/>
 - Read Chapter 1 in <https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control>
 - Learn the basics of github issues, so we can coordinate/discuss tasks at <https://github.com/gkappler/MathDataScienceProgramming/issues>.
 
 
-## Homework
+## Homework ([Video](https://odysee.com/@MathDataScienceProgramming:6/MSDP-Week2-02-Homework:3))
 1. What methods of proof are there? List all, and describe them in your own words below.
 2. Fork this repository and adapt to your personal website with your
    https://github.com/gkappler/MathDataScienceProgramming
