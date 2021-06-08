@@ -2,6 +2,7 @@
 title: Curriculum Course MDSP - Week 1
 ---
 
+# Curriculum Course MDSP - Week 1
 Welcome to the course to enable you as student tutors to learn and teach in these fields  *Mathematics, Data Science, and Programming* Education at Archipel university.
 
 Please read the [course overview](../)

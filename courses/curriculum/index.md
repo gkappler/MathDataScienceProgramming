@@ -2,7 +2,8 @@
 title: Curriculum Course Mathematics, Data Science, and Programming (MDSP)
 ---
 
-# The curriculum course aims at developing your study program
+# Curriculum Course Mathematics, Data Science, and Programming (MDSP)
+## The curriculum course aims at developing your study program
 prefering open and freely accessible materials.
 
 How will we do this?
@@ -27,6 +28,7 @@ https://odysee.com/$/invite/@MathDataScienceProgramming:6
 - [Week 1](Week 1/week1.md)
 - [Week 2](Week 2/week2.md)
 
+# Topics
 
 ## Mathematics:
 
