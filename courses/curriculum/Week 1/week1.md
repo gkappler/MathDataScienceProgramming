@@ -5,11 +5,21 @@ title: Curriculum Course MDSP - Week 1
 # Curriculum Course MDSP - Week 1
 Welcome to the course to enable you as student tutors to learn and teach in these fields  *Mathematics, Data Science, and Programming* Education at Archipel university.
 
-Please read the [course overview](../)
+Please read the [course overview](../) and topics [topics](../topics.md)
 
 [Watch the video about the course](https://odysee.com/@MathDataScienceProgramming:6/MSDP-Week1-01-About-the-course:e).
 
 [Watch the video abou the chat group](https://odysee.com/@MathDataScienceProgramming:6/MSDP-Week1-02-WhatsApp-Personal-Communication-1440:5).
+
+## GitHub
+
+<https://github.com/>
+<https://guides.github.com/>
+<https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control>
+
+<https://guides.github.com/features/pages/>
+
+FORK <https://github.com/gkappler/MathDataScienceProgramming>
 
 ## Homework: ([video](https://odysee.com/@MathDataScienceProgramming:6/MSDP-Week1-03-Homework-Explanation-1440:3))
 This homework is ongoing through all 7 weeks of the course.
