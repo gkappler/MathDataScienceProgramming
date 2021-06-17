@@ -2,9 +2,11 @@
 title: Curriculum Course MDSP - Week 3
 ---
 
-# Curriculum Course MDSP - Week 3
-Please read the [course overview](../)
+[course overview](../)
 
+# Curriculum Course MDSP - Week 3
+
+Video for week 3: https://youtu.be/U8Ytptb_0VA
 
 
 ## Homework
@@ -67,6 +69,8 @@ To understand Milne's joke understand chapter 5 in <https://www.birmingham.ac.uk
 Notation is how you write.
 Proof is how you answer "why?", rigorously in notation.
 
+## Sets
+
 Your next step is clarifying "what?".
 What are the elements in addition?
 
@@ -79,6 +83,8 @@ Then you understand a precise way of "what".
 Want to blow your mind more? 
 Read up on [Russel's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox).
 Learn to use Wikipedia (switch to French, easily learn technical english).
+
+## Functions
 
 To know "what" is talked about more clearly, it helps to think about some attributes of "it".
 That idea is captured in precise terms as "function".
