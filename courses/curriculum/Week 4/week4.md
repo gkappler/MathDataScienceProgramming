@@ -18,18 +18,23 @@ title: Curriculum Course MDSP - Week 4
 
 3. Do you agree with "[tertium non datur](https://en.wikipedia.org/wiki/Law_of_excluded_middle)"?
    
-   This paradox refuted the first formal set definition of Gottlob Frege. 
    
-   Why was that a desaster at the time?
+4. Russel's paradox
+
+   This paradox refuted the first formal set definition of [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege#Work_as_a_logician) (who was spiritually devasted by this).
+   
+   Why might Gottlob have been so upset about it?
    
 ### Your learning notes of the week:
 #### What was surprising? 
+
 - *Write a topic*
 - *Why?*
 
 #### What was hard to understand? 
 
-Why?
+- *Write a topic*
+- *Why?*
 
 
 #### What do you need to recapitulate?
