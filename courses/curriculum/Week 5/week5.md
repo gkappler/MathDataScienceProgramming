@@ -10,11 +10,11 @@ title: Curriculum Course MDSP - Week 5
 
 1. What is a variable in julia? What is the type of a variable in julia?
 
-  *Write here*
+   *Write here*
 
-2. Why is a function in julia?
+2. What is a function in julia?
     
-  *Write here*
+   *Write here*
 
 3. Compare what "function" means in julia with what "function" means in mathematics
    
@@ -22,6 +22,10 @@ title: Curriculum Course MDSP - Week 5
  
 4. Compare what "type" means in julia with what "set" means in mathematics
 
+   *Write here*
+
+5. What is a "bug"?
+    
    *Write here*
 
 ### Your learning notes of the week:
