@@ -66,8 +66,8 @@ Thus it will be best to organize a computer to learn the programming language ju
 
 ## Basics of programming
 
-1. Read chapter 1-3 in https://benlauwens.github.io/ThinkJulia.jl/latest/book.html,
-2. memorize https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#_glossary
+1. Read chapter 1-3 in [Think Julia: How to Think Like a Computer Scientist (Ben Lauwens)](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html),
+2. memorize [Glossary](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#_glossary)
 3. Read [unit testing](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#_unit_testing)
 3. voluntary: read [what exactly is the semantic difference between set and type](https://cs.stackexchange.com/questions/91330/what-exactly-is-the-semantic-difference-between-set-and-type/91345?noredirect=1#comment197425_91345)
 
