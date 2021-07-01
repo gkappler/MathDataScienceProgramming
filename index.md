@@ -37,6 +37,7 @@ and learn to realize your ideas in a program.
 - [Week 3](courses/curriculum/Week 3/week3.md)
 - [Week 4](courses/curriculum/Week 4/week4.md)
 - [Week 5](courses/curriculum/Week 5/week5.md)
+- [Week 6](courses/curriculum/Week 6/week6.md)
 
 
 ## About Me
