@@ -9,16 +9,20 @@ title: Curriculum Course MDSP - Week 6
 (materials below)
 
 1. What makes a statement a logical expression?
+A logical statement is a declarative sentence which conveys factual information. If the information is correct then we say the statement is true; and if the information is incorrect, then we say the statement is false. All logical statements are formed by combining simple statements.
 
-   *Write here*
-
-2. What is the difference between `a=b` and `a==b`
-    
-   *Write here*
+2. What is the difference between `a=b` and `a==b`    
+The difference is :
+(a=b) is Assignment operator.
+(a==b) is Relational operator.
+1)a=b
+Let's go with example. b=1 and if you are writing a=b then a=1.
+It means what ever value in b will be copied to a.
+2) a==b
+This is related to logical comparisons. let us take an Example if a=2 and b=2 then a==b is a TRUE or YES or CORRECT.
 
 3. What are variables, what are arguments, what is similar?
-   
-   *Write here*
+Variables are used to store information to be referenced and manipulated in a computer program. On the other hand, arguments are independent items, or variables, that contain data or codes. The similarity is variables are elements in arguments. 
  
 ### Your learning notes of the week:
 #### What was surprising? 
