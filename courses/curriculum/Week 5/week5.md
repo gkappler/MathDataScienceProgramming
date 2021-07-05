@@ -9,24 +9,29 @@ title: Curriculum Course MDSP - Week 5
 (materials below)
 
 1. What is a variable in julia? What is the type of a variable in julia?
+A variable, in Julia, is a name associated (or bound) to a value. It's useful when you want to store a value (that you obtained after some math, for example) for later use.
+Static type systems, where every program expression must have a type computable before the execution of the program. 
+Dynamic type systems, where nothing is known about types until run time, when the actual values manipulated by the program are available. 
 
-   *Write here*
-
-2. What is a function in julia?
-    
-   *Write here*
+2. What is a function in julia?    
+A function in Julia is an object that takes a tuple of arguments and maps it to a return value. A function can be purely mathematical or can modify the state of another object of the program.
+With Julia's function, we can write larger calculations but in very fewer lines of code, because the functions support full notations.
+Functions in Julia can be of multiple types as per the requirement. Some of these types are listed below:
+A function with single expression
+A function with multiple expressions
+A function with no argument
+A function with variable arguments, etc.
 
 3. Compare what "function" means in julia with what "function" means in mathematics
-   
-   *Write here*
- 
-4. Compare what "type" means in julia with what "set" means in mathematics
+A function in Julia is an object that takes a tuple of arguments and maps it to a return value. However, function, in mathematics,is an expression, rule, or law that defines a relationship between one variable (the independent variable) and another variable (the dependent variable).
 
-   *Write here*
+4. Compare what "type" means in julia with what "set" means in mathematics
+A type system describes how a programming language treats individual data and determines how to use it based on its type. Julia's type system is mostly dynamic, which means you don't have to tell Julia which type is a particular value. However, In mathematics a set is a collection of distinct elements.The elements that make up a set can be any kind of things: people, letters of the alphabet, numbers, points in space, lines, other geometrical shapes, variables, or even other sets. 
 
 5. What is a "bug"?
-    
-   *Write here*
+In computer science, a bug or boguenote 2 is a design flaw in a computer program causing a malfunction.
+The severity of the malfunction can range from mild, for example causing minor display faults - in this case we will sometimes speak of "glitch (es)" - to major, such as a system crash that can lead to serious accidents, for example. the in-flight destruction of the first Ariane 5 rocket in 1996.
+A bug can reside in an application, in the third-party software used by this application, or even in the firmware of a hardware component as was the case with the bug of the Pentiumnote 3 division. A patch is a piece of software intended to correct one or more bugs.
 
 ### Your learning notes of the week:
 #### What was surprising? 
