@@ -10,20 +10,25 @@ title: Curriculum Course MDSP - Week 4
 
 1. Why is the colloquial term "relation" justified for the Cartesian product *A* x *B* of two sets *A* and *B*?
 
-   *Reply here, use formal notation*.
+   In mathematics, a binary relation over sets X and Y is a subset of the Cartesian product X × Y; that is, it is a set of ordered pairs (x, y) consisting of elements x in X and y in Y. It encodes the common concept of relation: 
+An element x is related to an element y, if and only if the pair (x, y) belongs to the set of ordered pairs that defines the binary relation. A binary relation is the most studied special case n = 2 of an n-ary relation over sets X1, ..., Xn, which is a subset of the Cartesian product X1 × ... × Xn. 
+
 
 2. Why is a function a relation?  What special kind of relation is a function?
-    
-   *Reply here, use formal notation*.
+    A relation is a function when it maps each input to exactly one output. The set of all functions is a subset of the set of all relations. That means all functions are relations, but not all relations are functions. 
+ 
 
 3. Do you agree with "[tertium non datur](https://en.wikipedia.org/wiki/Law_of_excluded_middle)"?
-   
-   
+Tertium non Datur or Law of the excluded middle stipulate that any statement is either true or false except for contigent statements about the future. Even if there is a problem of future contigents or logical determinism, I am agree with the statement because there is no third solution (i-e) any statement is either true or false.    
 4. Russel's paradox
 
    This paradox refuted the first formal set definition of [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege#Work_as_a_logician) (who was spiritually devasted by this).
    
    Why might Gottlob have been so upset about it?
+Russell's paradox shows that every set theory that contains an unrestricted comprehension principle leads to contradictions
+It was following his work The Foundations of Arithmetic, where he attempted to derive arithmetic from logic, that Russell sent him the paradox that bears his name. Nevertheless Frege did not intend to reduce mathematical reasoning to its only logical dimension. His ideography aimed to associate on the same page, and in an explicit way, the mathematical content (horizontal line of the page) and the logical structure (vertical line).
+
+
    
 ### Your learning notes of the week:
 #### What was surprising? 
