@@ -9,12 +9,28 @@ title: Curriculum Course MDSP - Week 7
 (materials below)
 
 1. What are two "approaches" to probability?  Which one makes more sense to you, any why?
+Answer: The two approaches are:  Frequentist probability and Subjective probability.
+Frequentist probability or frequentism is an interpretation of probability; it defines an event's probability as the limit of its relative frequency in many trials. Probabilities can be found (in principle) by a repeatable objective process (and are thus ideally devoid of opinion).
+Subjective probability is a type of probability derived from an individual's personal judgment or own experience about whether a specific outcome is likely to occur.
+It contains no formal calculations and only reflects the subject's opinions and past experience rather than on data or computation.
+Subjective probabilities differ from person to person and contain a high degree of personal bias.
+Therefore, Frequentist probability make more sense to me because it follows an objective process not an invidual's personal judgment as the subjective probability. 
 
-   *Write here*
 
 2. What are Kolmogorov's Axioms? Why are they assumed -- and not proven?
-    
-   *Write here*
+Answer: The three Kolmogorov's Axions are:
+1)For any event A, P(A) ≥ 0. In English, that’s “For any event A, the probability of A is greater or equal to 0”.
+2)When S is the sample space of an experiment; i.e., the set of all possible outcomes, P(S) = 1. In English, that’s “The probability of any of the outcomes happening is one hundred percent”, or—paraphrasing— “anytime this experiment is performed, something happens”.
+3)If A and B are mutually exclusive outcomes, P(A ∪ B ) = P(A) + P(B).
+Here ∪ stands for ‘union’. We can read this by saying “If A and B are mutually exclusive outcomes, the probability of either A or B happening is the probability of A happening plus the probability of B happening”. 
+
+These three axioms don’t:
+1. Tell us where and when to apply the rules,
+2. Give us guidelines or procedures for calculating probabilities,
+3. Any insights to the nature of random processes.
+
+
+
 
 ### Your learning notes of the week:
 #### What was surprising? 
