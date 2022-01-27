@@ -6,7 +6,7 @@ title: Mathematics, Data Science, and Programming
 These fields will empower our future.
 You can empower your life learning these disciplines!
 
-You are invited to a three day talk series at Archipel University introducing our vision for a new curriculum in these fields.
+You are invited to a seven week work program at Archipel University introducing our vision for a new curriculum in these fields.
 To an exciting tour through mathematical, scientific and philosophical ideas,
 the cornerstones of this big picture of
 &bdquo;mathematics, data science and programming&ldquo;.
