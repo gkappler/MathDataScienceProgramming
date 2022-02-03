@@ -34,9 +34,8 @@ For each course you will study, we
 After reviewing and discussing my suggestion of curriculum content, we assign tasks to compile and discuss material to prospective tutors.
 The curriculum content is presented on the collaboration platform <http://github.com> and tasks are assigned there.
 
-###  Format: Videos and GitHub
+###  Format: Zoom
 
--   no common timeslot
 -   no live setting in Lock-Down
     &rarr; we need to adapt!
 -   asynchroneous course
@@ -45,7 +44,6 @@ The curriculum content is presented on the collaboration platform <http://github
 
 ## Thursdays recording or mail:
 
-On Thursdays I record a short tutorial.
 Videos are on Lbry/Odyssee:
 https://odysee.com/$/invite/@MathDataScienceProgramming:6
 

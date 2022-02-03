@@ -18,9 +18,6 @@ These concepts are used all over across mathematical research as well as industr
 With this solid foundation you can pursue more advanced topics,
 in pure mathematics, as well as applications.
 
-
-<a id="org56f77b1"></a>
-
 ## Data Science:
 
 The curriculum familiarizes with mathematical courses
@@ -35,8 +32,6 @@ The curriculum teaches how to apply your understanding in these courses
 2.  *Writing LaTeX*
 3.  *Visualizing quantitative information* (Tufte) &#x2013; the grammar of scientific graphics
 4.  *Public Data* Science &#x2013; Growing a public data repository for study and research (Information Mycelium).
-
-<a id="org89ac3bc"></a>
 
 ## Programming:
 
