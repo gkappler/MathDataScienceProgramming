@@ -54,5 +54,7 @@ because notation and proof are required to read any other material...
    2.  your course interests
     
 3. What methods of proof are there? List all, and describe them in your own words, editing this file
-   -
-   - 
+   - Direct proof 
+   - Counterexample pointing out a contradiction on an example.
+   - Proof by all sub-cases (never forget any possible case, that might be harder than you think!)
+   - ....
