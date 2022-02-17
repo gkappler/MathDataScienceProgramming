@@ -46,9 +46,13 @@ because notation and proof are required to read any other material...
 
 
 ## Homework ([Video](https://odysee.com/@MathDataScienceProgramming:6/MSDP-Week2-02-Homework:3))
-1. What methods of proof are there? List all, and describe them in your own words below.
-2. Fork this repository and adapt to your personal website with your
+1. Fork this repository and adapt to your personal website with
    https://github.com/gkappler/MathDataScienceProgramming
-   1.  biography (About me) and
-   2.  course interests
+   
+2. Edit in [index.md](../../../index.md) - as a first draft version
+   1.  your public biography (About me) and
+   2.  your course interests
     
+3. What methods of proof are there? List all, and describe them in your own words, editing this file
+   -
+   - 
