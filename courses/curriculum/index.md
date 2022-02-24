@@ -4,13 +4,13 @@ title: Curriculum Course Mathematics, Data Science, and Programming (MDSP)
 
 # Curriculum Course Mathematics, Data Science, and Programming (MDSP)
 ## Curriculum Student Tutors course
- [Week 1](Week 1/week1.md)
- [Week 2](Week 2/week2.md)
- [Week 3](Week 3/week3.md)
- [Week 4](Week 4/week4.md)
- [Week 5](Week 5/week5.md)
- [Week 6](Week 6/week6.md)
- [Week 7](Week 7/week7.md)
+ [Week 1](Week_1/week1.md)
+ [Week 2](Week_2/week2.md)
+ [Week 3](Week_3/week3.md)
+ [Week 4](Week_4/week4.md)
+ [Week 5](Week_5/week5.md)
+ [Week 6](Week_6/week6.md)
+ [Week 7](Week_7/week7.md)
 
 ## Course Aims:
 

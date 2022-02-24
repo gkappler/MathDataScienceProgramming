@@ -32,13 +32,13 @@ and learn to realize your ideas in a program.
 
 
 ## [Curriculum Student Tutors course](./courses/curriculum/)
-- [Week 1](./courses/curriculum/Week%201/week1.md)
-- [Week 2](./courses/curriculum/Week%202/week2.md)
-- [Week 3](./courses/curriculum/Week%203/week3.md)
-- [Week 4](./courses/curriculum/Week%204/week4.md)
-- [Week 5](./courses/curriculum/Week%205/week5.md)
-- [Week 6](./courses/curriculum/Week%206/week6.md)
-- [Week 7](./courses/curriculum/Week%207/week7.md)
+- [Week 1](./courses/curriculum/Week_1/week1.md)
+- [Week 2](./courses/curriculum/Week_2/week2.md)
+- [Week 3](./courses/curriculum/Week_3/week3.md)
+- [Week 4](./courses/curriculum/Week_4/week4.md)
+- [Week 5](./courses/curriculum/Week_5/week5.md)
+- [Week 6](./courses/curriculum/Week_6/week6.md)
+- [Week 7](./courses/curriculum/Week_7/week7.md)
 
 
 ## About Me
