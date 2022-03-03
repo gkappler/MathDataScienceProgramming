@@ -1,3 +1,6 @@
+The course github pages are in the [[https://github.com/gkappler/MathDataScienceProgramming/tree/gh-pages][gh-pages branch]]. 
+Please edit there for your things to show up on the [[https://gkappler.github.io/MathDataScienceProgramming/courses/curriculum/][website]].
+
 * Abstract: Mathematics, Data Science, and Programming
 # are disciplines for
 # 1. provably correct statements
