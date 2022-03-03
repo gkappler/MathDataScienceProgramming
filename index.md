@@ -1,7 +1,8 @@
----
-title: Mathematics, Data Science, and Programming
+---  
+title: Voices of Women - VOW
 ---
 
+Making our World Beautiful One Woman at a Time
 
 ![elephant](http://2.bp.blogspot.com/-89EDYZgqUe8/TWRnqvwwtoI/AAAAAAAAA-0/eATShLwHX0o/s1600/Elephant_1-6128.jpg "Breaking free, elephant!")
 
