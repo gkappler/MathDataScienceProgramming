@@ -2,6 +2,9 @@
 title: Mathematics, Data Science, and Programming
 ---
 
+
+![elephant](http://2.bp.blogspot.com/-89EDYZgqUe8/TWRnqvwwtoI/AAAAAAAAA-0/eATShLwHX0o/s1600/Elephant_1-6128.jpg "Breaking free, elephant!")
+
 # Mathematics, Data Science, and Programming
 These fields will empower our future.
 You can empower your life learning these disciplines!
