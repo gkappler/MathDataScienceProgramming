@@ -2,14 +2,11 @@
 title: Mathematics, Data Science, and Programming
 ---
 
-
-![elephant](http://2.bp.blogspot.com/-89EDYZgqUe8/TWRnqvwwtoI/AAAAAAAAA-0/eATShLwHX0o/s1600/Elephant_1-6128.jpg "Breaking free, elephant!")
-
 # Mathematics, Data Science, and Programming
 These fields will empower our future.
 You can empower your life learning these disciplines!
 
-You are invited to a seven week work program at Archipel University introducing our vision for a new curriculum in these fields.
+You are invited to a program at Archipel University introducing our vision for a new curriculum in these fields.
 To an exciting tour through mathematical, scientific and philosophical ideas,
 the cornerstones of this big picture of
 &bdquo;mathematics, data science and programming&ldquo;.
@@ -17,8 +14,17 @@ Aware of the human condition of uncertainty and confusion,
 we lay out a student journey
 that promises understanding and possible certainty,
 for those who put up with the necessary frustration and pain
-of making every proof your own,
+of making every change your self.
+Do it and you will learn to create a website.
+Why certainly you will?
+Because it is the law of attention and time.
+## [Github help](./courses/git/)
+Please learn Github.
+
+## [Curriculum Student Tutors course](./courses/curriculum/)
+Best, get serious and make every proof your own,
 until you finally get the ideas.
+
 
 Beyond numbers we connect fundamental ideas:
 introducing simple notation shows
@@ -29,12 +35,15 @@ Learn about the ominous Omega &Omega; of creation
 Clearly observing and measuring,
 About models of reality and the truth.
 
-It is a metareal introduction to the magic of mathematics.
+It is a metareal introduction into the magic of mathematics.
+Mathematics is an art of not being wrong.
+That is why it can calm you down.
+(And humiliates you!)
+
 Enroll on a journey where you can expand your mind 
 and learn to realize your ideas in a program.
 
 
-## [Curriculum Student Tutors course](./courses/curriculum/)
 - [Week 1](./courses/curriculum/Week_1/week1.md)
 - [Week 2](./courses/curriculum/Week_2/week2.md)
 - [Week 3](./courses/curriculum/Week_3/week3.md)
@@ -42,6 +51,7 @@ and learn to realize your ideas in a program.
 - [Week 5](./courses/curriculum/Week_5/week5.md)
 - [Week 6](./courses/curriculum/Week_6/week6.md)
 - [Week 7](./courses/curriculum/Week_7/week7.md)
+
 
 
 ## About Me
